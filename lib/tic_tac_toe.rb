@@ -131,6 +131,4 @@ def play
     puts "Cats Game!"
   end
 end
-
-
 end
